@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "ko-KR"
 title                    : "Mac Diary"
 title_separator          : "|"
-subtitle                 : "osX 사용일기"
+subtitle                 : "건이의 OS X 사용기"
 name                     : "Lee Kun"
 description              : "Mac유저 리쿤의 블로그 입니다"
 url                      : "https://LKun25.github.io"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "코린이 Lee Kun 의"
+  name             : "코린이가 만들어가는"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "소소한 블로그 입니다."
+  bio              : "소소한 일상 블로그 입니다."
   location         : "South Korea"
   email            :
   links:
