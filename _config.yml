@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 locale                   : "ko-KR"
 title                    : "Mac Diary"
 title_separator          : "|"
-subtitle                 : "건이의 osX 사용기"
+subtitle                 : "건이의 OS X 사용기"
 name                     : "Lee Kun"
 description              : "Mac유저 리쿤의 블로그 입니다"
 url                      : "https://LKun25.github.io"
@@ -96,10 +96,10 @@ social:
 
 # Analytics
 analytics:
-  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
   google:
-    tracking_id          : "G-9326RGSQPC"
-    anonymize_ip         : false # true, false (default)
+    tracking_id          :
+    anonymize_ip         : # true, false (default)
 
 
 # Site Author
